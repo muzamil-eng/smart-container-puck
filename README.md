@@ -20,7 +20,8 @@ The **Smart Container Base Puck** leverages a high-performance microcontroller a
 * **Control Loop Firmware:** C++ firmware executing threshold logic for real-time state detection.
 * **Visual Alerts:** Dynamic RGB LED indicator patterns triggered by weight shifts, thermal warnings, or tipping events.
 * **API & Workflow Integration:** Optimized firmware debugging and sensor calibration using AI-assisted analysis pipelines.
-## 📋 Project Management & Engineering Documentation
+
+## Project Management & Engineering Documentation
 * **Work Breakdown Structure (WBS) & Timeline:** Managed project execution across a structured multi-week milestone schedule.
 * **Bill of Materials (BOM) & Procurement:** Cataloged component specs, pin compatibility, power budgets, and procurement tracking.
 * **Design Sketches & Schematics:** Hand-drafted orthographic concepts and Tinkercad breadboard schematics prior to physical assembly.
